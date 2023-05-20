@@ -36,6 +36,10 @@ namespace BasicCoreProgramming
             Factor obj6 = new Factor();
             obj6.CalculateFactor();
 
+            // Print nth Harmonic Number
+            HarmonicNumber obj7 = new HarmonicNumber();
+            obj7.FindHarmonicNumber();
+
         }
     }
 }
