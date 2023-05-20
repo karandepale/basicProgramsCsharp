@@ -11,6 +11,9 @@ namespace BasicCoreProgramming
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world... ");
+
+            SwapTwoNum obj = new SwapTwoNum();
+            obj.Swap();
         }
     }
 }
