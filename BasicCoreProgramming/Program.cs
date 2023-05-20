@@ -44,6 +44,9 @@ namespace BasicCoreProgramming
             PowerOf2 obj8 = new PowerOf2();
             obj8.CalculatePowerOF2();
 
+            // Leap Year Checking
+            LeapYear obj9 = new LeapYear();
+            obj9.CheckLeapYear();
         }
     }
 }
