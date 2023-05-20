@@ -23,6 +23,10 @@ namespace BasicCoreProgramming
             // Check alphabet is vovel or constant
             VovelConstant obj3 = new VovelConstant();
             obj3.CheckVovelConstant();
+
+            // find greatest number amongst 3 numbers
+            LargestNumber obj4 = new LargestNumber();
+            obj4.LargestAmongThree();
         }
     }
 }
