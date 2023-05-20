@@ -40,6 +40,10 @@ namespace BasicCoreProgramming
             HarmonicNumber obj7 = new HarmonicNumber();
             obj7.FindHarmonicNumber();
 
+            // Power of 2
+            PowerOf2 obj8 = new PowerOf2();
+            obj8.CalculatePowerOF2();
+
         }
     }
 }
