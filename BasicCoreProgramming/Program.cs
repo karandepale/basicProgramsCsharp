@@ -12,8 +12,13 @@ namespace BasicCoreProgramming
         {
             Console.WriteLine("Hello world... ");
 
+            // Swap Two numbers 
             SwapTwoNum obj = new SwapTwoNum();
             obj.Swap();
+
+            // Check Even Odd
+            EvenOdd obj1 = new EvenOdd();
+            obj1.CheckEvenOdd();
         }
     }
 }
