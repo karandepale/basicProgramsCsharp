@@ -47,6 +47,10 @@ namespace BasicCoreProgramming
             // Leap Year Checking
             LeapYear obj9 = new LeapYear();
             obj9.CheckLeapYear();
+
+            // Flip Coin Printing percentage
+            FlipCoin obj10 = new FlipCoin();
+            obj10.PrintPercentage();
         }
     }
 }
