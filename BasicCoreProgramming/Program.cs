@@ -31,6 +31,11 @@ namespace BasicCoreProgramming
             // Compute Quotient and Reminder
             QuotientRemainder obj5 = new QuotientRemainder();
             obj5.findQuAndReminder();
+
+            // Calculate Factor 
+            Factor obj6 = new Factor();
+            obj6.CalculateFactor();
+
         }
     }
 }
