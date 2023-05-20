@@ -13,12 +13,16 @@ namespace BasicCoreProgramming
             Console.WriteLine("Hello world... ");
 
             // Swap Two numbers 
-            SwapTwoNum obj = new SwapTwoNum();
-            obj.Swap();
+            SwapTwoNum obj1 = new SwapTwoNum();
+            obj1.Swap();
 
             // Check Even Odd
-            EvenOdd obj1 = new EvenOdd();
-            obj1.CheckEvenOdd();
+            EvenOdd obj2 = new EvenOdd();
+            obj2.CheckEvenOdd();
+
+            // Check alphabet is vovel or constant
+            VovelConstant obj3 = new VovelConstant();
+            obj3.CheckVovelConstant();
         }
     }
 }
