@@ -27,6 +27,10 @@ namespace BasicCoreProgramming
             // find greatest number amongst 3 numbers
             LargestNumber obj4 = new LargestNumber();
             obj4.LargestAmongThree();
+
+            // Compute Quotient and Reminder
+            QuotientRemainder obj5 = new QuotientRemainder();
+            obj5.findQuAndReminder();
         }
     }
 }
